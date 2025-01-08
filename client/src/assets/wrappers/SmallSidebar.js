@@ -15,6 +15,7 @@ const Wrapper = styled.aside`
     opacity: 0;
     transition: var(--transition);
     visibility: hidden;
+    width:300px;
   }
   .show-sidebar {
     z-index: 99;
